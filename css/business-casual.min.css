@@ -68,7 +68,7 @@ p{
    font-weight:800
 }
 #mainNav .navbar-nav .nav-item.active .nav-link {
-   color:#e6a756
+   color:rgba(202, 233, 255, 0.95)
 }
 @media (min-width:992px){
    #mainNav .navbar-nav .nav-item .nav-link {
@@ -77,7 +77,7 @@ p{
    #mainNav .navbar-nav .nav-item .nav-link:hover {
        color:rgba(255,255,255,.4)
    }
-   #mainNav .navbar-nav .nav-item.active .nav-link:hover{color:#e6a756}
+   #mainNav .navbar-nav .nav-item.active .nav-link:hover{color:rgba(202, 233, 255, 0.95)}
 }
 .btn-xl {
    font-weight:700;
@@ -87,21 +87,21 @@ p{
    padding-left:2rem;
    padding-right:2rem
 }
-.intro {
+.PersonalWebsite1 {
    position:relative
 }
 @media (min-width:992px){
-   .intro .intro-img {
+   .PersonalWebsite1 .PersonalWebsite1-img {
        width:75%;
        float:right
    }
-   .intro .intro-text {
+   .inPersonalWebsite1tro .PersonalWebsite1-text {
        left:0;
        width:60%;
        margin-top:3rem;
        position:absolute
    }
-   .intro .intro-text .intro-button {
+   .PersonalWebsite1 .PersonalWebsite1-text .PersonalWebsite1-button {
        width:100%;
        left:0;
        position:absolute;
@@ -109,7 +109,7 @@ p{
    }
 }
 @media (min-width:1200px){
-   .intro .intro-text{width:45%}
+   .PersonalWebsite1 .PersonalWebsite1-text{width:45%}
 }
 .cta {
    padding-top:5rem;
@@ -172,7 +172,7 @@ p{
 }
 .list-hours .list-hours-item.today {
    font-weight:700;
-   color:#e6a756
+   color:rgba(202, 233, 255, 0.95)
 }
 @media (min-width:992px){
    .list-hours {
@@ -187,21 +187,21 @@ p{
    background-color:rgba(100, 185, 210, 0.95)
 }
 .text-primary {
-   color:#e6a756!important
+   color:rgba(202, 233, 255, 0.95)!important
 }
 .PWBackground-primary {
-   background-color:#e6a756!important
+   background-color:rgba(202, 233, 255, 0.95)!important
 }
 .btn {
    box-shadow:0 3px 3px 0 rgba(33,37,41,.1)
 }
 .btn-primary {
-   background-color:#e6a756;
-   border-color:#e6a756
+   background-color:rgba(202, 233, 255, 0.95);
+   border-color:rgba(202, 233, 255, 0.95)
 }
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover {
-   background-color:#df902a;
-   border-color:#df902a
+   background-color:rgba(202, 233, 255, 0.95);
+   border-color:rgba(202, 233, 255, 0.95)
 }
 .font-weight-light {
    font-weight:100!important
